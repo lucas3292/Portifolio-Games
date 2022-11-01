@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: ed1f48dcb0103964abf377cf09984755
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: black_001_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 648
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4dbfa855c421e4f9799ab7ade45e35
+      internalID: -1125373216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_001_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a459e40728356204a85c22beb2361e43
+      internalID: -637889431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_001_52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 294
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ba0b64fcdb4e745a55f7ea479a4691
+      internalID: -938900962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_001_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 295
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc30e421f746a9c4fbfa5d1e310d5a11
+      internalID: 427128459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_001_54
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 294
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197708b7f8d5b6f4e8c58ff790bf40d9
+      internalID: -2107535267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      black_001_50: -210773567
+      black_001_0: -1125373216
+      black_001_5: -449967507
+      black_001_28: 876092456
+      black_001_88: 2086359848
+      black_001_14: -1656721137
+      black_001_34: -468296295
+      black_001_92: 729263306
+      black_001_25: -1064038659
+      black_001_83: 717817954
+      black_001_30: -554649027
+      black_001_48: -1202806700
+      black_001_41: 739817140
+      black_001_17: -769341877
+      black_001_37: -2039275413
+      black_001_69: -1406546397
+      black_001_89: 1230011599
+      black_001_12: -873383363
+      black_001_32: 1869029271
+      black_001_77: -556535347
+      black_001_35: 1797384257
+      black_001_20: -164697691
+      black_001_58: -678258779
+      black_001_75: 1611340254
+      black_001_90: -1973820935
+      black_001_46: -1744403737
+      black_001_65: 1217247467
+      black_001_54: -2107535267
+      black_001_3: -139690176
+      black_001_22: 2097409080
+      black_001_56: 2058210897
+      black_001_57: 1573904376
+      black_001_82: 1467302924
+      black_001_66: -1278920642
+      black_001_10: -283610465
+      black_001_21: 488519648
+      black_001_49: -340242261
+      black_001_55: -1908459202
+      black_001_73: -1889968189
+      black_001_45: 540714756
+      black_001_96: 1129608543
+      black_001_79: -936991461
+      black_001_67: -1887367108
+      black_001_81: 559273463
+      black_001_44: -724208889
+      black_001_59: 1208549922
+      black_001_51: -637889431
+      black_001_80: 1528342909
+      black_001_91: 537713292
+      black_001_8: 431586579
+      black_001_94: 1512969756
+      black_001_15: 1479156416
+      black_001_26: -730551271
+      black_001_43: 1041558251
+      black_001_11: 20254910
+      black_001_60: 290781669
+      black_001_53: 427128459
+      black_001_31: 571296258
+      black_001_93: 1232741788
+      black_001_84: 1827463025
+      black_001_16: -812651199
+      black_001_86: -627176931
+      black_001_9: 2130907147
+      black_001_13: -329481230
+      black_001_23: -2139889875
+      black_001_74: 1756072825
+      black_001_68: 628470237
+      black_001_6: -695053766
+      black_001_18: -1488849751
+      black_001_40: 559462869
+      black_001_24: 2135432735
+      black_001_29: 1045389842
+      black_001_47: 1261861653
+      black_001_52: -938900962
+      black_001_76: 2006007209
+      black_001_63: 955887416
+      black_001_71: -1843605028
+      black_001_64: -1113210721
+      black_001_78: 1348456264
+      black_001_95: 1602780503
+      black_001_87: -1266886302
+      black_001_39: -2087810097
+      black_001_42: 1763746889
+      black_001_70: -1780408242
+      black_001_85: 1367863374
+      black_001_38: -978987957
+      black_001_2: 1736127405
+      black_001_1: -763824738
+      black_001_4: -987816352
+      black_001_33: -1560526083
+      black_001_36: 960862582
+      black_001_27: 1534231255
+      black_001_7: 486731415
+      black_001_61: -23170722
+      black_001_72: -554675893
+      black_001_19: -29280747
+      black_001_62: 1026077472
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
